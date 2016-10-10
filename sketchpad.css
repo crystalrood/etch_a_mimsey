@@ -2,14 +2,14 @@ h1 {
 	text-align: center;
 	font-family: sans-serif;
 	font-size: 4em;
-	color: #000;
+	color: #183170;
 }
 
 #wrapper {
     width: 640px;
     height: 640px;
 	  margin: 120px auto 0px auto;
-    background: #000;
+    background: #7b8396;
 }
 
 .row {
